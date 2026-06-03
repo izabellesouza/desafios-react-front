@@ -25,6 +25,13 @@ Instale as dependências:
 ```bash
 npm install
 ```
+## Referência
+
+Os desafios desenvolvidos neste projeto foram baseados na atividade proposta pelo professor Kelson.
+
+Link da atividade:
+https://kelsonvictr.github.io/front-desafio-uniesp/
+
 ## Informações
 
 **Aluna:** Izabelle  
